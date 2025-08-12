@@ -48,6 +48,9 @@ Deployment
 The deployment script (/scripts/deploy.js) deploys all contracts, sets the TokenStore address in the GameToken, and sets the API Gateway address in PlayGame.
 To deploy on a local Hardhat node or a testnet:
 bash: npx hardhat node
+
+
+
 deploy :npx hardhat run scripts/deploy.js --network localhost
 
 Usage Overview
