@@ -31,7 +31,6 @@ package.json # Project dependencies and scripts
 
 3. Getting Started
 Prerequisites
-
 - Node.js v16 or higher  
 - npm  
 - Git
